@@ -5,4 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2235-add-two-integers](https://github.com/wasicodess/Dsa/tree/master/2235-add-two-integers) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/wasicodess/Dsa/tree/master/0707-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/wasicodess/Dsa/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
