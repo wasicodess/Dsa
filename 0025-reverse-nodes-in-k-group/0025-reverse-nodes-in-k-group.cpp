@@ -33,10 +33,8 @@ public:
 
         while (temp != NULL) {
 
-            // Find kth node
             ListNode* KthNode = findKthNode(temp, k);
 
-            // Less than k nodes remaining
             if (KthNode == NULL) {
                 if (prevNode != NULL)
                     prevNode->next = temp;
@@ -44,16 +42,12 @@ public:
                 break;
             }
 
-            // Save next group
             ListNode* nextNode = KthNode->next;
 
-            // Disconnect current group
             KthNode->next = NULL;
 
-            // Reverse current group
             reverse(temp);
 
-            // First group
             if (temp == head) {
                 head = KthNode;
             }
@@ -61,10 +55,8 @@ public:
                 prevNode->next = KthNode;
             }
 
-            // temp is now the last node of reversed group
             prevNode = temp;
 
-            // Move to next group
             temp = nextNode;
         }
 
