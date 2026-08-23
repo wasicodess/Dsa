@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/wasicodess/Dsa/tree/master/0232-implement-queue-using-stacks) |
 | [0707-design-linked-list](https://github.com/wasicodess/Dsa/tree/master/0707-design-linked-list) |
 ## Recursion
 |  |
@@ -59,5 +60,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/wasicodess/Dsa/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/wasicodess/Dsa/tree/master/0234-palindrome-linked-list) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/wasicodess/Dsa/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
